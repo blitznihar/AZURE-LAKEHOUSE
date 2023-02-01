@@ -1,4 +1,4 @@
-variable "azurenextgenlocation" {
+variable "azureblitzdataplatformlocation" {
   type    = string
-  default = "centralus"
+  default = "eastus2"
 }
